@@ -1,5 +1,3 @@
-![](diagrams/project_architecture.png)
-
 ## 🎯 Project Overview
 
 This project simulates a **real-world lakehouse implementation** for a large Indian restaurant chain operating **5 locations across the UAE** (2 in Abu Dhabi, 2 in Dubai, 1 in Sharjah). This project covering ingestion, transformation, AI enrichment, and business intelligence — all within the Databricks ecosystem.
